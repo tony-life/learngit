@@ -1,1 +1,2 @@
-just for learning and testing
+jst for learning and testing
+change user config(.gitconfig) file
